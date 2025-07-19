@@ -33,3 +33,5 @@ pnpm build
 ```sh
 pnpm lint
 ```
+
+新用户登录前先进行注册
